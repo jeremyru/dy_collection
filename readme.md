@@ -33,4 +33,4 @@
 ## 捐赠
 
 作者快揭不开锅了，一分也是爱，感谢支持！
-![支付宝](./images/alipay.jpg =200x300) ![微信](./images/wechat-pay.jpg =200x300)
+![支付宝](./images/alipay.jpg) ![微信](./images/wechat-pay.jpg)
