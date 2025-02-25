@@ -1,6 +1,6 @@
 # 抖音自动采集脚本
 
-> 这是一个用于自动采集抖音用户主页作品的浏览器脚本，通过 Tampermonkey 插件在浏览器中运行。支持采集单个、批量、队列采集。觉得有用的话，请给我一颗 star，谢谢！
+> 这是一个用于自动采集抖音用户主页作品的浏览器脚本，通过 Tampermonkey 插件在浏览器中运行。支持采集单个、批量、队列采集。
 
 ## 功能
 
@@ -14,9 +14,9 @@
 
 ## 使用方法
 
-1.  安装 Motrix，主要用于推送下载地址
-2.  安装浏览器插件 Tampermonkey(篡改猴)，用于运行脚本
-3.  到 Tampermonkey 中新建一个脚本，将脚本代码(本项目中的 dy.js)复制粘贴到脚本中
+1.  安装 [motrix](https://motrix.app/)，主要用于推送下载地址
+2.  安装浏览器插件 [Tampermonkey(篡改猴)](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN)，用于运行脚本
+3.  到 Tampermonkey 中添加新脚本，将脚本代码(本项目中的 dy.js)复制粘贴到脚本中
 4.  随便打开一个作者主页，点击脚本中的采集按钮，即可开始采集作品
 
 ## 注意事项
@@ -29,3 +29,8 @@
 -   本项目仅供学习和研究使用，请勿用于商业用途。
 -   本项目中的脚本代码仅供参考，不保证其正确性和安全性，请根据您的需求自行修改。
 -   如果您有任何建议或问题，请随时提交 issue 或 pull request。
+
+## 捐赠
+
+作者快揭不开锅了，一分也是爱，感谢支持！
+![支付宝](./images/alipay.jpg){:width="200px"} ![微信](./images/wechat-pay.jpg){:width="200px"}
